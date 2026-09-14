@@ -40,12 +40,12 @@
 #include <RtcDS1302.h>
 
 // ── WiFi Credentials ───────────────────────────────────────
-#define WIFI_SSID       "LET NETWORK"
-#define WIFI_PASSWORD   "technology123455"
+#define WIFI_SSID       "XXXX-XXXX"
+#define WIFI_PASSWORD   "XXXXXXXX"
 
 // ── Firebase Credentials ───────────────────────────────────
 #define FIREBASE_HOST   "https://eehkleff-smart-fertigation-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH   "AIzaSyDxB30_SxNG_wBKspaxf6oUyU-X4Ixs2Hs"
+#define FIREBASE_AUTH   "AIXXXXXXXXX_XXXX_XXXXXXXXXXXXX-XXXXXXHs"
 
 // ── Firebase Paths ─────────────────────────────────────────
 #define PATH_SOIL         "/sensorData/soilMoisture"
