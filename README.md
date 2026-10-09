@@ -1,6 +1,6 @@
 # Eehkleff Smart Fertigation System — v4
 
-Dual-mode (sensor / time / combined) fertigation controller for ESP32, with
+Triple-mode (sensor / time / combined) fertigation controller for ESP32, with
 Firebase Realtime Database sync, OLED status display, and an MIT App
 Inventor companion app.
 
