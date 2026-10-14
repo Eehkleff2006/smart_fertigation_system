@@ -30,4 +30,4 @@ Inventor companion app.
 4. Open `fertigation_v4.ino` in Arduino IDE and flash to the ESP32.
 
 ## Status
-Work in progress — MIT App Inventor companion app blocks phase still incomplete.
+Completed.
